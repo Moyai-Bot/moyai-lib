@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:JeanCarlosVR/eris-upgraded.git"
+    "url": "git+https://git@github.com/JeanCarlosVR/eris-upgraded.git"
   },
   "scripts": {
     "lint:js": "eslint -c .eslintrc.yml lib examples *.js",

@@ -46,7 +46,7 @@
   ],
   "license": "MIT",
   "main": "./index.js",
-  "name": "eris-upgraded",
+  "name": "jean-wrapper",
   "optionalDependencies": {
     "opusscript": "^0.0.7",
     "tweetnacl": "^1.0.1"

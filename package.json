@@ -16,7 +16,7 @@
     "ws": "^7.2.1"
   },
   "deprecated": false,
-  "description": "Eris upgraded",
+  "description": "Moyai library",
   "devDependencies": {
     "@types/node": "^13.9.0",
     "@typescript-eslint/eslint-plugin": "^2.14.0",
@@ -46,14 +46,14 @@
   ],
   "license": "MIT",
   "main": "./index.js",
-  "name": "moyai",
+  "name": "moyai-lib",
   "optionalDependencies": {
     "opusscript": "^0.0.7",
     "tweetnacl": "^1.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com/JeanCarlosVR/moyai.git"
+    "url": "git+https://git@github.com/JeanCarlosVR/moyai-lib.git"
   },
   "scripts": {
     "lint:js": "eslint -c .eslintrc.yml lib examples *.js",

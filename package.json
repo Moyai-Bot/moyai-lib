@@ -41,19 +41,19 @@
     "api",
     "discord",
     "discordapp",
-    "eris",
+    "moyai",
     "wrapper"
   ],
   "license": "MIT",
   "main": "./index.js",
-  "name": "jean-wrapper",
+  "name": "moyai",
   "optionalDependencies": {
     "opusscript": "^0.0.7",
     "tweetnacl": "^1.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git@github.com/JeanCarlosVR/eris-upgraded.git"
+    "url": "git+https://git@github.com/JeanCarlosVR/moyai.git"
   },
   "scripts": {
     "lint:js": "eslint -c .eslintrc.yml lib examples *.js",

@@ -2,4 +2,4 @@
 
 Library for Moyai, A Discord Bot.
 
-Library based on Eris.
+Eris with changes 😂
